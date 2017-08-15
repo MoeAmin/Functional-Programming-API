@@ -1,0 +1,5 @@
+/              HomeR GET
+/add/#Int/#Int AddR  GET
+/minus/#Int/#Int MinusR GET
+/multiply/#Int/#Int MultiplyR GET
+/divide/#Int/#Int DivideR GET
